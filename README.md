@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Eder Miranda, tenho 39 anos e sou natural de Ji-Paraná. Atualmente  estou no ultimo semestre da faculdade de Análise e Desenvolvimento de Sistemas pela Estácio. Estou em transição de carreira e compartilho meu conhecimento através do meu GITHUB e Instagram "[EderMiranda-DEV](https://www.instagram.com/edermiranda.dev/)", onde posto meus projetos web.
+Me chamo Eder Miranda, tenho 39 anos e sou natural de Ji-Paraná. Atualmente  estou no ultimo semestre da faculdade de Análise e Desenvolvimento de Sistemas pela Estácio. Estou em transição de carreira e compartilho meu conhecimento através do meu GITHUB e Instagram, onde posto meus projetos web.
 
 
 
